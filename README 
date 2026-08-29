@@ -1,13 +1,13 @@
-Python Calculator
+#Python Calculator
 
 A simple and clean calculator built with Python.
 
-Features
+##Features
 - Addition (+)
 - Subtraction (-)
 - Multiplication (*)
 - Division (/)
 
-How to run
+##How to run
 ```bash
 python main.py
